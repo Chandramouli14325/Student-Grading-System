@@ -112,8 +112,7 @@ Student-Grading-System/
 └── README.md
 ```
 
-## Author
-
-- **Name:** 
-- **Domain:** 
-- **Internship ID:** 
+## Author Details
+- **Name:** KURUBA CHANDRAMOULI 
+- **Domain:** SQL
+- **Internship ID:** CITS9354
